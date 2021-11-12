@@ -1,0 +1,20 @@
+.warningAge{
+    font-size: 1rem;
+    color: red;
+}
+.warningName{
+    font-size: 1rem;
+    color: red;
+}
+.warningCheckbox{
+    font-size: 1rem;
+    color: red;
+}
+.noTypeTt{
+    font-size: 1rem;
+    color: red;
+}
+.submitcomplete{
+    font-size: 1.5rem;
+    color: green;
+}
